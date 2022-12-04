@@ -6,12 +6,14 @@
 - 📫 How to reach me: <strong><a href="joaogabriel9633@gmail.com">joaogabriel9633@gmail.com</a></strong>
 - 😄 Pronouns: He/Him
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/JGabriel963">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <h2>Languages<h2>
+
 <div style="display: inline_block">
   <img align="center" alt="JG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
