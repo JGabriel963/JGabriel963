@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1685577600&v=beta&t=QRIpTcQYLktlCKzsbkg4V4ifWu8E-ci643TGmjcG_p4" alt="background-image">
+
 **Hi, I'm Jhon!!!**
 
 - 🔭 I’m currently seeking my first experience
