@@ -8,10 +8,13 @@
 - 📫 How to reach me: <strong><a href="joaogabriel9633@gmail.com">joaogabriel9633@gmail.com</a></strong>
 - 😄 Pronouns: He/Him
 
+<h2>Status</h2>
+
 <div align="center" style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=transparent"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&langs_count=7%theme=aura)]"/>
 </div>
+
 <h2>Skills<h2>
 
 <div style="display: inline_block">
