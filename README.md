@@ -12,7 +12,7 @@
 
 <div align="center" style="display: inline_block">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=transparent"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&theme=transparent" />
 </div>
 
 <h2>Skills<h2>
