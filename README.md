@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1685577600&v=beta&t=QRIpTcQYLktlCKzsbkg4V4ifWu8E-ci643TGmjcG_p4" alt="background-image">
+<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1693440000&v=beta&t=edDX5EoyVJI8sfz_ymDyNxD_5d59m1wonif4Q6TBwws" alt="background-image">
 
 <h2>Hi, I'm Jhon!!!</h2>
 
@@ -12,7 +12,7 @@
 
 <div align="center" style="display: inline_block">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=transparent"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&langs_count=7%theme=aura)]"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact" />
 </div>
 
 <h2>Skills<h2>
