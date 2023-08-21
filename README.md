@@ -3,7 +3,7 @@
 <h2>Hi, I'm Jhon!!!</h2>
 
 - 🔭 I’m currently seeking my first experience
-- 🌱 I’m currently learning <strong>React, Bootstrap and NodeJS</strong>
+- 🌱 I’m currently learning <strong>NextJs, Tailwind and NodeJS</strong>
 - 🤔 I’m looking for help with study tips
 - 📫 How to reach me: <strong><a href="joaogabriel9633@gmail.com">joaogabriel9633@gmail.com</a></strong>
 - 😄 Pronouns: He/Him
