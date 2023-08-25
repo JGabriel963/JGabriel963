@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1693440000&v=beta&t=edDX5EoyVJI8sfz_ymDyNxD_5d59m1wonif4Q6TBwws" alt="background-image">
 
-<h2>Hi, I'm Jhon!!!</h2>
+<h2>Hi, I'm João Gabriel!!!</h2>
 
 - 🔭 I’m currently seeking my first experience
 - 🌱 I’m currently learning <strong>NextJs, Tailwind and NodeJS</strong>
