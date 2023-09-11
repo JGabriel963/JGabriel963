@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1693440000&v=beta&t=edDX5EoyVJI8sfz_ymDyNxD_5d59m1wonif4Q6TBwws" alt="background-image">
+<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1700092800&v=beta&t=LH-Xl4Cu2hY6w3BPS49aDacAYS2i-d3C_Iqo4qdHWjc" alt="background-image">
 
 <h2>Hi, I'm João Gabriel!!!</h2>
 
@@ -24,12 +24,16 @@
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="JG-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="JG-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="JG-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="JG-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="JG-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="JG-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="JG-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JG-postgressql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="JG-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="JG-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="JG-sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </div>
   
 <h2>Contact<h2>
