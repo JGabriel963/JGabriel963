@@ -11,8 +11,8 @@
 <h2>Status</h2>
 
 <div align="center" style="display: inline_block">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JGabriel963&show_icons=true&theme=transparent"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel963&layout=compact&theme=transparent" />
 </div>
 
 <h2>Skills<h2>
