@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHXjv5LKUtwAQ/profile-displaybackgroundimage-shrink_350_1400/0/1669666663470?e=1700092800&v=beta&t=LH-Xl4Cu2hY6w3BPS49aDacAYS2i-d3C_Iqo4qdHWjc" alt="background-image">
+<img src="img/profile.jpeg" alt="background-image">
 
 <h2>Hi, I'm João Gabriel!!!</h2>
 
